@@ -1,0 +1,4 @@
+.build/
+.swiftpm/
+Grover.app/
+.DS_Store
