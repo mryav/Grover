@@ -1,6 +1,6 @@
 # Grover
 
-**Google, one keystroke away.** Grover is a tiny macOS launcher. Press **fn + Space** to open a floating search bar, type, and the Google results appear right there. Click a result and the page flicks open beside them. Flick through results without leaving the window.
+Need to Google something? Just press **fn + space** to open a floating search bar, type, and the Google results appear right there. Click a result and the page flicks open beside them. Flick through results without leaving the window.
 
 <p align="center">
   <img src="docs/screenshots/split-light.png" width="720" alt="Grover showing Google results on the left and a result page on the right">
